@@ -4,7 +4,7 @@ This project mainly focused user authentication and form validation. I use custo
 
 **Version: 1.0.0**
 
-Technology used
+Technology usedfgdgfd
 - HTML
 - CSS
 - Bootstrap
